@@ -1,0 +1,461 @@
+[
+    {
+      "id": 1,
+      "questions": ["Can you provide guidance on the placement process?", "Tell me about the placement procedure", "How does placement work at our school?"],
+      "answer": "Certainly! The placement process involves submitting your resume, attending interviews with potential employers, and, in some cases, participating in company assessments. Our placement cell assists students throughout this process."
+    },
+    {
+      "id": 2,
+      "questions": ["What companies visit our school for campus placement?", "List of companies for campus placement", "Which companies have recruited from our school recently?"],
+      "answer": "We have a diverse set of companies visiting for campus placement, including IT firms, multinational corporations, and startups. Some recent recruiters include ABC Tech, XYZ Corporation, and Innovate Solutions."
+    },
+    {
+      "id": 3,
+      "questions": ["How can I prepare for placement interviews?", "Placement interview tips", "Any advice for interview preparation?"],
+      "answer": "To prepare for placement interviews, focus on refining your resume, practicing common interview questions, researching the companies you're interested in, and developing your communication skills. Our career counseling services are available to assist you in your preparation."
+    },
+    {
+      "id": 4,
+      "questions": ["Are there any upcoming placement events or job fairs?", "Upcoming placement events", "Tell me about the next job fair on campus"],
+      "answer": "Yes, we have upcoming placement events and job fairs scheduled. Keep an eye on our notice board and the school's official website for announcements about these events. It's a great opportunity to connect with recruiters from various industries."
+    },
+    {
+      "id": 5,
+      "questions": ["Can you review my resume for placement?", "Resume review service for placement", "How can I improve my resume for placement?"],
+      "answer": "Absolutely! We offer resume review services to help you enhance your resume for placement. Feel free to submit your resume to the placement cell, and we'll provide feedback and suggestions to make it stand out."
+    },
+    
+        {
+          "id": 6,
+          "questions": ["What skills are in demand by employers?", "Key skills for placement", "Skills employers look for in candidates"],
+          "answer": "Employers often seek candidates with strong communication skills, problem-solving abilities, teamwork, and technical proficiency. Additionally, staying updated with industry-specific skills can enhance your marketability."
+        },
+        {
+          "id": 7,
+          "questions": ["Is there any support for internship placements?", "Internship placement assistance", "How can I get help with finding internships?"],
+          "answer": "Certainly! Our placement cell provides support for securing internships. You can connect with the placement coordinator to explore available opportunities and receive guidance on applying for internships relevant to your field of study."
+        },
+        {
+          "id": 8,
+          "questions": ["What advice do you have for networking with professionals?", "Networking tips for students", "How can I build a professional network for placement opportunities?"],
+          "answer": "Building a professional network is crucial for placement. Attend industry events, connect with alumni, and utilize online platforms like LinkedIn. Joining professional groups and participating in relevant discussions can help you expand your network."
+        },
+        {
+          "id": 9,
+          "questions": ["How can I showcase my projects during placement?", "Presenting projects in interviews", "Tips for discussing projects during placement interviews"],
+          "answer": "When discussing projects during interviews, focus on the problem-solving aspect, highlight your role and contributions, and emphasize the outcomes. Creating a portfolio or presentation can also be effective in showcasing your projects."
+        },
+        {
+          "id": 10,
+          "questions": ["Can you share success stories of previous students in placements?", "Alumni success stories in placement", "Tell me about students who secured great placements"],
+          "answer": "Certainly! We have numerous success stories of our alumni securing excellent placements. These stories showcase the diverse career paths our graduates have taken, and you can find inspiration from their experiences."
+        },
+        {
+          "id": 11,
+          "questions": ["What are the common mistakes to avoid during placement interviews?", "Interview pitfalls to avoid", "Mistakes students make in placement interviews"],
+          "answer": "Common mistakes include being unprepared, lacking knowledge about the company, and not effectively communicating your skills. Practice mock interviews, research companies thoroughly, and work on your communication to avoid these pitfalls."
+        },
+        {
+          "id": 12,
+          "questions": ["How can I stay updated on placement-related information?", "Placement updates and notifications", "Stay informed about placement activities"],
+          "answer": "To stay updated, regularly check our placement bulletin board, visit the school's website for announcements, and subscribe to placement-related newsletters or communication channels. This ensures you don't miss out on any important information."
+        },
+        {
+          "id": 13,
+          "questions": ["Are there resources for preparing for aptitude tests?", "Aptitude test preparation assistance", "How to excel in placement aptitude tests?"],
+          "answer": "Yes, we provide resources and assistance for aptitude test preparation. The placement cell may conduct workshops or share study materials to help you excel in aptitude tests commonly used in placement processes."
+        },
+        {
+          "id": 14,
+          "questions": ["What types of industries typically recruit from our school?", "Industries hiring our graduates", "Common industries in placement"],
+          "answer": "Our graduates are sought after by a range of industries, including IT, finance, healthcare, engineering, and more. The diversity of industries recruiting from our school offers students opportunities in various fields."
+        },
+        {
+          "id": 15,
+          "questions": ["Can I get guidance on creating a career development plan?", "Career development planning assistance", "How to plan my career path"],
+          "answer": "Absolutely! Our career counseling services can assist you in creating a personalized career development plan. This includes identifying your goals, mapping out steps to achieve them, and making informed decisions about your career path."
+        },
+        {
+          "id": 16,
+          "question": "What skills are required for the Software Engineer position?",
+          "answer": "The Software Engineer position requires a Bachelor's degree in Computer Science, programming skills in Java or Python, and experience with database management."
+        },
+        {
+          "id": 17,
+          "question": "Can you provide details about the Marketing Specialist role?",
+          "answer": "The Marketing Specialist role involves planning and executing marketing campaigns. Requirements include a Bachelor's degree in Marketing, social media management skills, and excellent communication skills."
+        },
+        {
+          "id": 18,
+          "question": "What does the Customer Support Representative role entail?",
+          "answer": "The Customer Support Representative role involves assisting customers with product inquiries and issues. Key requirements include excellent communication skills, problem-solving abilities, and previous customer service experience."
+        },
+        {
+          "id": 19,
+          "question": "Describe the responsibilities of a Data Analyst.",
+          "answer": "A Data Analyst is responsible for analyzing and interpreting complex data sets. They use statistical techniques to discover trends, prepare reports, and present findings to support decision-making within an organization."
+        },
+        {
+          "id": 20,
+          "question": "What qualifications are needed for a Project Manager role?",
+          "answer": "A Project Manager typically requires a Bachelor's degree in a related field, strong organizational and leadership skills, and experience in project management. PMP certification is often preferred."
+        },
+        {
+          "id": 21,
+          "question": "Tell me about the salary range for a Graphic Designer.",
+          "answer": "The salary for a Graphic Designer varies based on experience and location. On average, it can range from $45,000 to $65,000 per year."
+        },
+        {
+          "id": 22,
+          "question": "What are the key responsibilities of a Network Administrator?",
+          "answer": "A Network Administrator is responsible for managing and maintaining an organization's computer networks. This includes installing and supporting network systems, troubleshooting issues, and ensuring network security."
+        },
+        {
+          "id": 23,
+          "question": "What programming languages are commonly used in web development?",
+          "answer": "Common programming languages in web development include HTML, CSS, JavaScript for front-end development, and languages like Python, Ruby, PHP, and Node.js for back-end development."
+        },
+        {
+          "id": 24,
+          "question": "Can you explain the role of a Product Manager?",
+          "answer": "A Product Manager is responsible for the development and success of a product. They define the product strategy, work with cross-functional teams, and ensure the product meets customer needs and business goals."
+        },
+        {
+          "id": 25,
+          "question": "What skills are important for a UX/UI Designer?",
+          "answer": "A UX/UI Designer should have skills in user research, wireframing, prototyping, and a strong understanding of user-centered design principles. Proficiency in design tools like Sketch or Figma is also valuable."
+        },
+        {
+          "id": 26,
+          "question": "Tell me about the educational requirements for a Data Scientist.",
+          "answer": "Data Scientists typically have at least a Master's degree in a relevant field such as statistics, computer science, or data science. Strong analytical and programming skills are also crucial for this role."
+        },
+        {
+          "id": 27,
+          "question": "What is the role of a Systems Analyst?",
+          "answer": "A Systems Analyst analyzes and designs information systems to meet an organization's needs. They work on improving efficiency, evaluating system performance, and ensuring that technology solutions align with business goals."
+        },
+        {
+          "id": 28,
+          "question": "Describe the responsibilities of a Human Resources Manager.",
+          "answer": "A Human Resources Manager oversees the recruitment, training, and development of employees. They also handle employee relations, ensure compliance with labor laws, and contribute to strategic HR planning."
+        },
+        {
+          "id": 29,
+          "question": "What are the primary duties of a Front-End Developer?",
+          "answer": "Front-End Developers focus on the user interface and visual aspects of a website or application. They implement designs using HTML, CSS, and JavaScript, ensuring a seamless and visually appealing user experience."
+        },
+        {
+          "id": 30,
+          "question": "What certifications are beneficial for an IT professional?",
+          "answer": "Certifications such as CompTIA A+, Cisco CCNA, and Microsoft MCSA are beneficial for IT professionals. Specialized certifications in areas like cybersecurity (e.g., CISSP) or cloud computing (e.g., AWS Certified Solutions Architect) are also valuable."
+        },
+        {
+          "id": 31,
+          "question": "What does the role of a Business Analyst involve?",
+          "answer": "A Business Analyst analyzes and documents business processes, identifies areas for improvement, and proposes solutions. They act as a liaison between business stakeholders and IT teams to ensure effective communication and project success."
+        },
+        {
+          "id": 32,
+          "question": "What should be included in a resume's 'Skills' section?",
+          "answer": "In the 'Skills' section of a resume, include relevant technical and soft skills. Technical skills can be specific to the job (e.g., programming languages), while soft skills may include communication, teamwork, and problem-solving."
+        },
+        {
+          "id": 33,
+          "question": "How can I make my resume stand out to recruiters?",
+          "answer": "To make your resume stand out, tailor it to the job, highlight achievements, use action verbs, and keep it concise. Use a clean and professional format, and consider including a summary statement at the beginning."
+        },
+        {
+          "id": 34,
+          "question": "What is the importance of a cover letter in a job application?",
+          "answer": "A cover letter allows you to introduce yourself, explain why you're a good fit for the position, and highlight key achievements. It provides a personalized touch and demonstrates your interest in the role."
+        },
+        {
+          "id": 35,
+          "question": "Can you provide tips for a successful job interview?",
+          "answer": "Prepare for a job interview by researching the company, practicing common interview questions, and showcasing your skills and experiences. Dress professionally, maintain good eye contact, and send a thank-you email after the interview."
+        },
+        {
+          "id": 36,
+          "question": "What steps should I follow when negotiating a job offer?",
+          "answer": "When negotiating a job offer, research industry salary standards, be confident but polite, and clearly communicate your expectations. Consider the entire compensation package, including benefits, before making a decision."
+        },
+        {
+          "id": 37,
+          "question": "How can I effectively manage my time during the job search?",
+          "answer": "Prioritize tasks, set specific goals, and create a schedule for your job search. Keep track of applications and follow-ups. Take breaks to avoid burnout, and seek support from mentors or career counselors."
+        },
+        {
+          "id": 38,
+          "question": "What is the purpose of a professional networking event?",
+          "answer": "Professional networking events provide opportunities to connect with industry professionals, learn about job opportunities, and exchange information. They help build relationships that can lead to career advancements or collaborations."
+        },
+        {
+          "id": 39,
+          "question": "How can I demonstrate my achievements on a resume?",
+          "answer": "Quantify your achievements by using numbers or percentages when possible. Focus on outcomes and impact. Use action verbs and provide context to help recruiters understand the significance of your contributions."
+        },
+        {
+          "id": 40,
+          "question": "What is the 'STAR' method in behavioral interviews?",
+          "answer": "The 'STAR' method (Situation, Task, Action, Result) is a technique used in behavioral interviews. It involves describing a specific situation, the task at hand, the action you took, and the positive result or outcome of your actions."
+        },
+        {
+          "id": 41,
+          "question": "How should I handle gaps in my employment history on a resume?",
+          "answer": "Address employment gaps honestly on your resume. Briefly explain the reason for the gap, and highlight any relevant skills or experiences gained during that time. Emphasize your commitment to the role you're applying for."
+        },
+        {
+          "id": 42,
+          "question": "What programming languages are essential for a Full Stack Developer?",
+          "answer": "A Full Stack Developer should be proficient in languages such as JavaScript, HTML, CSS for front-end development, and languages like Node.js, Python, or Ruby for back-end development."
+        },
+        {
+          "id": 43,
+          "question": "How can someone improve their data analysis skills?",
+          "answer": "To improve data analysis skills, practice working with real datasets, learn statistical methods, and use tools like Python or R. Consider taking online courses or participating in data analysis projects."
+        },
+        {
+          "id": 44,
+          "question": "What design tools are commonly used by UX/UI Designers?",
+          "answer": "UX/UI Designers commonly use design tools such as Sketch, Figma, Adobe XD, and InVision to create wireframes, prototypes, and design interfaces."
+        },
+        {
+          "id": 45,
+          "question": "What certifications are valuable for a cybersecurity professional?",
+          "answer": "Certifications like CISSP (Certified Information Systems Security Professional), CompTIA Security+, and CEH (Certified Ethical Hacker) are valuable for cybersecurity professionals."
+        },
+        {
+          "id": 46,
+          "question": "How can one enhance their project management skills?",
+          "answer": "To enhance project management skills, consider obtaining a PMP (Project Management Professional) certification, practice using project management tools, and gain experience managing diverse projects."
+        },
+        {
+          "id": 47,
+          "question": "What skills are important for a content writer?",
+          "answer": "Content writers should have strong writing and editing skills, creativity, attention to detail, and the ability to adapt writing styles for different audiences and purposes."
+        },
+        {
+          "id": 48,
+          "question": "Can you suggest ways to improve public speaking skills?",
+          "answer": "To improve public speaking skills, practice regularly, join public speaking groups, seek constructive feedback, and work on techniques such as voice modulation and maintaining eye contact with the audience."
+        },
+        {
+          "id": 49,
+          "question": "What tools are commonly used in graphic design?",
+          "answer": "Graphic designers often use tools such as Adobe Creative Suite (Illustrator, Photoshop, InDesign), CorelDRAW, and Canva for creating visual designs and illustrations."
+        },
+        {
+          "id": 50,
+          "question": "How can someone develop strong leadership skills?",
+          "answer": "To develop strong leadership skills, take on leadership roles, seek mentorship, attend leadership training programs, and focus on effective communication, decision-making, and team collaboration."
+        },
+        {
+          "id": 51,
+          "question": "What skills are crucial for a data scientist?",
+          "answer": "Critical skills for a data scientist include proficiency in programming languages (e.g., Python, R), statistical analysis, machine learning, data visualization, and strong problem-solving abilities."
+        },
+        {
+          "id": 52,
+          "question": "How can I prepare for a behavioral interview?",
+          "answer": "Prepare for a behavioral interview by reviewing common behavioral questions, identifying past experiences, and using the STAR method (Situation, Task, Action, Result) to structure your responses."
+        },
+        {
+          "id": 53,
+          "question": "What questions should I ask at the end of a job interview?",
+          "answer": "Ask questions that show your interest and gather information about the company culture, team dynamics, and expectations. For example, you can ask about the company's future plans or the team's collaborative approach."
+        },
+        {
+          "id": 54,
+          "question": "How can I handle a technical interview effectively?",
+          "answer": "Prepare for a technical interview by reviewing technical concepts related to the role, practicing coding problems, and being ready to explain your thought process clearly. Don't hesitate to ask clarifying questions during the interview."
+        },
+        {
+          "id": 55,
+          "question": "What are common mistakes to avoid in a job interview?",
+          "answer": "Common mistakes to avoid include arriving late, being unprepared, speaking negatively about past employers, and dominating the conversation. Maintain professionalism and focus on showcasing your skills and qualifications."
+        },
+        {
+          "id": 56,
+          "question": "How can I overcome nervousness during a job interview?",
+          "answer": "To overcome nervousness, practice common interview questions, conduct mock interviews, and focus on your achievements and qualifications. Take deep breaths, maintain good posture, and remember that nervousness is natural."
+        },
+        {
+          "id": 57,
+          "question": "What is the importance of body language in an interview?",
+          "answer": "Body language plays a crucial role in interviews. Maintain good eye contact, offer a firm handshake, and sit up straight to convey confidence. Avoid fidgeting and be attentive to the interviewer's cues."
+        },
+        {
+          "id": 58,
+          "question": "How can I tailor my answers to match the company's values?",
+          "answer": "Research the company's values and culture before the interview. Align your responses with these values by providing examples of how your past experiences and achievements demonstrate a similar commitment to those values."
+        },
+        {
+          "id": 59,
+          "question": "What should I do if I don't know the answer to an interview question?",
+          "answer": "If you don't know the answer, stay calm and admit that you're unsure. Offer to discuss related experiences or mention how you would approach finding a solution. Employers appreciate honesty and problem-solving skills."
+        },
+        {
+          "id": 60,
+          "question": "How can I demonstrate enthusiasm for the position during an interview?",
+          "answer": "Demonstrate enthusiasm by expressing genuine interest in the company and the role. Highlight specific aspects of the job that excite you, and mention how your skills align with the company's goals and values."
+        },
+        {
+          "id": 61,
+          "question": "What follow-up actions should I take after a job interview?",
+          "answer": "After an interview, send a thank-you email expressing gratitude for the opportunity. Mention key points from the interview and reiterate your interest in the position. Use this opportunity to express your enthusiasm for the role."
+        },
+        {
+          "id": 62,
+          "question": "How can I find internship opportunities in my field?",
+          "answer": "To find internship opportunities, check online job boards, company websites, and professional networking platforms. Reach out to career services at your educational institution and attend career fairs to discover potential opportunities."
+        },
+        {
+          "id": 63,
+          "question": "What should I include in my internship resume as a student?",
+          "answer": "Include relevant coursework, projects, and any part-time or volunteer experiences on your internship resume. Highlight your skills, academic achievements, and any extracurricular activities that demonstrate your qualifications for the internship."
+        },
+        {
+          "id": 64,
+          "question": "How can I stand out in the application process for internships?",
+          "answer": "To stand out in the internship application process, customize your resume and cover letter for each application. Showcase your enthusiasm for the industry, highlight relevant skills, and express how the internship aligns with your career goals."
+        },
+        {
+          "id": 65,
+          "question": "What types of questions might be asked in an internship interview?",
+          "answer": "Internship interview questions may focus on your academic background, relevant skills, and your interest in the company. Be prepared to discuss your career goals, previous experiences, and how you can contribute to the internship role."
+        },
+        {
+          "id": 66,
+          "question": "How can I make the most of my internship experience?",
+          "answer": "Make the most of your internship by taking initiative, seeking learning opportunities, and building professional relationships. Ask for feedback, participate in company events, and document your achievements to showcase on your resume."
+        },
+        {
+          "id": 67,
+          "question": "What skills are valuable for internships in the tech industry?",
+          "answer": "Valuable skills for tech internships include programming languages (e.g., Python, Java), familiarity with relevant tools and technologies, problem-solving abilities, and a strong willingness to learn and adapt to new challenges."
+        },
+        {
+          "id": 68,
+          "question": "How can I network to discover internship opportunities?",
+          "answer": "Network to discover internship opportunities by attending industry events, joining professional organizations, and connecting with professionals on platforms like LinkedIn. Informational interviews with industry experts can also provide valuable insights and potential leads."
+        },
+        {
+          "id": 69,
+          "question": "Is it advisable to apply for internships outside my major?",
+          "answer": "Yes, applying for internships outside your major can broaden your skill set and provide valuable experiences. Highlight transferable skills and explain how your diverse background can contribute to the internship role."
+        },
+        {
+          "id": 70,
+          "question": "What can I do if I don't have previous internship experience?",
+          "answer": "If you don't have previous internship experience, emphasize relevant coursework, personal projects, and any part-time jobs or volunteer work. Showcase your eagerness to learn and apply your skills in a professional setting."
+        },
+        {
+          "id": 71,
+          "question": "How can I prepare for a virtual internship?",
+          "answer": "Prepare for a virtual internship by ensuring you have a reliable internet connection and necessary tools. Familiarize yourself with virtual collaboration platforms, communicate effectively with your team, and be proactive in seeking guidance."
+        },
+        {
+          "id": 72,
+          "question": "How can companies effectively engage with college students?",
+          "answer": "Companies can effectively engage with college students by participating in career fairs, offering internships, conducting campus recruitment events, and collaborating with student organizations. Building a strong online presence and utilizing social media platforms are also effective engagement strategies."
+        },
+        {
+          "id": 73,
+          "question": "What benefits can companies gain from hiring college interns?",
+          "answer": "Hiring college interns can bring fresh perspectives, innovative ideas, and a potential talent pipeline to companies. Interns often bring enthusiasm and a willingness to learn, contributing to a dynamic and diverse workplace culture."
+        },
+        {
+          "id": 74,
+          "question": "How can companies support college students in their career development?",
+          "answer": "Companies can support college students in their career development by offering mentorship programs, hosting workshops and training sessions, providing networking opportunities, and sponsoring educational events. Creating a supportive and inclusive work environment is key."
+        },
+        {
+          "id": 75,
+          "question": "What strategies can companies use to attract top talent from college campuses?",
+          "answer": "To attract top talent from college campuses, companies can highlight their company culture, values, and opportunities for professional growth. Offering competitive internships, participating in campus events, and maintaining a strong employer brand are effective strategies."
+        },
+        {
+          "id": 76,
+          "question": "How can companies foster diversity and inclusion in their interactions with college students?",
+          "answer": "Fostering diversity and inclusion involves actively seeking diverse talent, promoting an inclusive work culture, and engaging with student organizations that focus on underrepresented groups. Providing equal opportunities and support is crucial for building an inclusive environment."
+        },
+        {
+          "id": 77,
+          "question": "What role can company-sponsored events play in college student engagement?",
+          "answer": "Company-sponsored events, such as career workshops, networking sessions, and industry talks, can play a significant role in college student engagement. These events provide valuable insights into the industry, facilitate networking, and allow students to learn more about potential career paths."
+        },
+        {
+          "id": 78,
+          "question": "How can companies collaborate with college career services?",
+          "answer": "Companies can collaborate with college career services by participating in career fairs, offering informational sessions, and partnering on internship programs. Building relationships with career advisors can help companies understand the needs and expectations of college students."
+        },
+        {
+          "id": 79,
+          "question": "What are effective ways for companies to provide feedback to college students?",
+          "answer": "Companies can provide feedback to college students by offering constructive criticism, highlighting strengths, and suggesting areas for improvement. Clear and actionable feedback helps students understand their performance and aids in their professional development."
+        },
+        {
+          "id": 80,
+          "question": "How can companies support college students transitioning into the workforce?",
+          "answer": "Supporting college students transitioning into the workforce involves offering onboarding programs, mentorship opportunities, and professional development resources. Providing guidance on workplace expectations and fostering a positive work environment is crucial."
+        },
+        {
+          "id": 81,
+          "question": "What steps can companies take to create a positive employer brand among college students?",
+          "answer": "To create a positive employer brand among college students, companies should showcase their commitment to employee development, emphasize a positive work culture, and actively engage with students through social media and campus events. Sharing success stories of former interns and employees can also enhance the company's reputation."
+        },
+        {
+          "id": 82,
+          "question": "What is the role of Docker in software development?",
+          "answer": "Docker is a containerization platform that allows developers to package applications and their dependencies into containers. It simplifies deployment, ensures consistency across environments, and enhances scalability and isolation."
+        },
+        {
+          "id": 83,
+          "question": "How does Kubernetes facilitate container orchestration?",
+          "answer": "Kubernetes is an open-source container orchestration platform. It automates the deployment, scaling, and management of containerized applications. Kubernetes enables efficient container orchestration, load balancing, and seamless scaling across clusters."
+        },
+        {
+          "id": 84,
+          "question": "What are the key features of the React.js library?",
+          "answer": "React.js is a JavaScript library for building user interfaces. Key features include a virtual DOM for efficient updates, component-based architecture, JSX for declarative UI, and a unidirectional data flow for managing state."
+        },
+        {
+          "id": 85,
+          "question": "Explain the concept of RESTful API.",
+          "answer": "REST (Representational State Transfer) is an architectural style for designing networked applications. RESTful APIs use standard HTTP methods (GET, POST, PUT, DELETE) to perform operations on resources. They emphasize stateless communication and scalability."
+        },
+        {
+          "id": 86,
+          "question": "What is the significance of the DevOps culture in software development?",
+          "answer": "DevOps (Development and Operations) is a culture and set of practices that aim to improve collaboration between development and operations teams. It emphasizes automation, continuous integration, continuous delivery, and a feedback loop for faster and more reliable software delivery."
+        },
+        {
+          "id": 87,
+          "question": "Explain the role of Apache Hadoop in big data processing.",
+          "answer": "Apache Hadoop is an open-source framework for distributed storage and processing of large datasets. It uses a distributed file system (HDFS) and a processing model (MapReduce) to handle big data analytics and storage across clusters of computers."
+        },
+        {
+          "id": 88,
+          "question": "What is the purpose of a version control system like Git?",
+          "answer": "Git is a distributed version control system used for tracking changes in source code during software development. It enables collaboration among developers, maintains a history of code changes, and facilitates branching and merging for parallel development efforts."
+        },
+        {
+          "id": 89,
+          "question": "How does the OAuth 2.0 protocol work in web authentication?",
+          "answer": "OAuth 2.0 is an authorization framework used for secure third-party authentication. It allows users to grant limited access to their resources without exposing credentials. OAuth 2.0 is commonly used in web and mobile applications for user authentication and authorization."
+        },
+        {
+          "id": 90,
+          "question": "Explain the role of a load balancer in a web application architecture.",
+          "answer": "A load balancer distributes incoming network traffic across multiple servers to ensure optimal resource utilization, minimize response time, and avoid server overload. It enhances the scalability, availability, and reliability of web applications."
+        },
+        {
+          "id": 91,
+          "question": "What are the benefits of using a microservices architecture in software development?",
+          "answer": "Microservices architecture breaks down a monolithic application into smaller, independent services. Benefits include improved scalability, easier maintenance, independent deployments, and the ability to use different technologies for each microservice."
+        }
+        
+      
+  ]
+  
